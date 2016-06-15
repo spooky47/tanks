@@ -2,10 +2,10 @@
 Created By Jacob Alcazar
 This is a two player game, you can control the tank and the gun.
 
-W - Forward
-A - Left
-S - Backward
-D - Right
+W - Forward,
+A - Left,
+S - Backward,
+D - Right,
 Spacebar - Shoot
 
 <b>Tanks</b>&nbsp;&nsbp;:sparkles:<br><br>
