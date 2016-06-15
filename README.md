@@ -1,4 +1,4 @@
-# tanks 
+# Tanks 
 Created By Jacob Alcazar
 This is a two player game, you can control the tank and the gun.
 
@@ -8,5 +8,5 @@ S - Backward,
 D - Right,
 Spacebar - Shoot
 
-<b>Tanks</b>&nbsp;&nsbp;:sparkles:<br><br>
+<b>Tanks</b>&nbsp;&nbsp;:sparkles:<br><br>
 ![Alt text](https://github.com/spooky47/tanks/blob/master/tankss.PNG )
