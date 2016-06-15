@@ -1,6 +1,7 @@
 # Tanks 
-Created By Jacob Alcazar
-This is a two player game, you can control the tank and the gun.
+Created By Jacob Alcazar<br>
+This is a two player game, you can control the tank and the gun.<br>
+###Controls
 
 W - Forward<br>
 A - Left<br>
